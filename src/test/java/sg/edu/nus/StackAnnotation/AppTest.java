@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assetTrue( false );
+        assertTrue( false );
         //assertTrue( true );
     }
 }
